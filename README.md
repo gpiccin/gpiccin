@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Global Shares](https://www.linkedin.com/company/global-shares/) as Software Engineer lead
-- 🌱 I’m currently learning Python and Dart
+- 🔭 I’m currently working on [J.P. Morgan](https://www.jpmorgan.com/) as Software Engineer lead
 - 👯 I’m looking to collaborate on social projects
 - 💬 Ask me about Life, Run, F1, Agile, Software Development, whatever, what you want
 - 📫 How to reach me: tweet me
